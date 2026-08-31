@@ -109,3 +109,10 @@ fn generate_password(length: usize) -> String {
     //^ Converts the vector of characters into a String
     password.into_iter().collect()
 }
+
+
+/*******************************************************************************
+ *
+ * Copyright (c) 2026 Copyright Freja Hassel. All rights reserved.
+ * 
+ ******************************************************************************/
